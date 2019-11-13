@@ -4,3 +4,4 @@
 [Irish Cream Recipe](https://kvshvl.github.io/posts/irishcreamrecipe.md).
 [Kapwing](https://kvshvl.github.io/posts/kapwing.md).
 [Perspicacity](https://kvshvl.github.io/posts/perspicacity.md).
+[Processism](https://kvshvl.github.io/posts/processism.md).
