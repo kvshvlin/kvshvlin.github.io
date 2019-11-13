@@ -1,0 +1,1 @@
+[PROFILE](https://kvshvl.github.io/profile.html) | [PORTFOLIO](https://kvshvl.github.io/portfolio.html) | [PEOPLE](https://kvshvl.github.io/people.html) |  [LEGAL](https://kvshvl.github.io/legal.html) |  [SUPPORT](https://kvshvl.github.io/support.html)
