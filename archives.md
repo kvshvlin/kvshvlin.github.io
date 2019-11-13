@@ -7,3 +7,6 @@
 [Perspicacity](https://kvshvl.github.io/perspicacity.md).
 [Processism](https://kvshvl.github.io/processism.md).
 [Urban Insert Design](https://kvshvl.github.io/urbaninsertdesign.md).
+
+[Return back to home](https://kvshvl.github.io/index.html)
+
