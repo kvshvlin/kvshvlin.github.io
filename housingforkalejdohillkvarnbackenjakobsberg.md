@@ -1,4 +1,4 @@
-## Housing for Kalejdohill Kvarnbacken Jakobsberg.
+## Housing for Kalejdohill, Kvarnbacken, Jakobsberg.
 
 This project was a competition entry to design a story for a public park for Kalejdohill. It focused on story designing as a tool for spacemaking.
 ![](https://66.media.tumblr.com/30b99d101e634c81f1cfc6bf38fbdded/9a0fb41c47a06956-93/s540x810/2da291cc4a6784576502568aae019af8d0008475.gif)
