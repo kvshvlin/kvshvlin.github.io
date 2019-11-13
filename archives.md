@@ -6,3 +6,4 @@
 [Kapwing](https://kvshvl.github.io/posts/kapwing.md).
 [Perspicacity](https://kvshvl.github.io/posts/perspicacity.md).
 [Processism](https://kvshvl.github.io/posts/processism.md).
+[Urban Insert Design](https://kvshvl.github.io/posts/urbaninsertdesign.md).
