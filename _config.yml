@@ -2,5 +2,5 @@ theme: jekyll-theme-minimal
 title: [KVSHVL]
 description: [Programming human behaviour using architecture]
 logo: [KDSBlack.jpg]
-show_downloads: ["true"]
+show_downloads: [true]
 google_analytics: [UA-105795582-1]
