@@ -281,3 +281,6 @@ You can always come back for more later.
 We attend to damages, case wise.
 
 We advise you to handle our products with care.
+
+[Return back to home](https://kvshvl.github.io/index.html)
+
