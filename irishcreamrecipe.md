@@ -19,3 +19,5 @@ Add 1 tsp vanilla extract.
 Add 200/350 ML alcohol.
 
 Blend everything, chill, knock yourself out.
+
+[Return back to home](https://kvshvl.github.io/index.html)
