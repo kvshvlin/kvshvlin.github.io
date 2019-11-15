@@ -8,7 +8,8 @@ I organized Parcel. In process, I could move my videos from various social media
 
 Follow Kapwing on [_Facebook_](https://www.facebook.com/KapwingVideos) + [_Twitter_](https://twitter.com/KapwingApp).
 
-I love the cross-platform functionality, and edit using URL option. This is all I need to create content, to share stories, to bring joy to my audiences, and more.     
+I love the cross-platform functionality, and edit using URL option. This is all I need to create content, to share stories, to bring joy to my audiences, and more.
+
 Convert | [_Image to Video_](https://www.kapwing.com/image-to-video)
 
 Edit Video Tools | [_Adjust Video_](https://www.kapwing.com/adjust-video), [_Caption Video_](https://www.kapwing.com/caption-video), [_Convert Video_](https://www.kapwing.com/convert-video), [_Crop Video_](https://www.kapwing.com/crop-video), [_Cut Video_](https://www.kapwing.com/cut-video), [_Fit Video_](https://www.kapwing.com/fit-video), [_Frame Video_](https://www.kapwing.com/frame-video), [_Loop Video_](https://www.kapwing.com/loop-video), [_Mute Video_](https://www.kapwing.com/mute-video), [_Repeat Video_](https://www.kapwing.com/repeat-video), [_Reverse Video_](https://www.kapwing.com/reverse-video), [_Rotate Video_](https://www.kapwing.com/rotate), [_Watermark Video_](https://www.kapwing.com/watermark-video) |
