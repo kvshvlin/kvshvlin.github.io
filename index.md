@@ -1,4 +1,4 @@
-[PROJECTS](https://kvshvl.github.io/archives.html) | [PROFILE](https://kvshvl.github.io/profile.html) | [PEOPLE](https://kvshvl.github.io/people.html) | [LEGAL](https://kvshvl.github.io/legal.html)
+[PROJECTS](https://kvshvl.github.io/projects.html) | [PROFILE](https://kvshvl.github.io/profile.html) | [PEOPLE](https://kvshvl.github.io/people.html) | [LEGAL](https://kvshvl.github.io/legal.html)
 
 “Work. It is a small part of what we do. The rest of the time. We practice.”
 
@@ -6,3 +6,21 @@ The practice spans [_app development_](https://github.com/kvshvl), [_blogging_](
 
 For more information, [_email_](mailto:%20kushaldsamant@gmail.com), connect on [_facebook_](https://facebook.com/kvshvl), or [_send a tweet_](https://twitter.com/kvshvl_).  
 To sponsor KVSHVL, you can be a part of the [_open collective_](https://opencollective.com/kvshvl), or [_paypal_](https://www.paypal.com/paypalme2/parceloff).
+
+## Archives.
+
+[Bridging Emotions](https://kvshvl.github.io/bridgingemotions.html).    
+[Catalytic Corridor](https://kvshvl.github.io/catalyticcorridor.html).    
+[Farmhouse for Mrs. Heera Subhan & Mr. Sharad Yadav](https://kvshvl.github.io/farmhouseformrsheerasubhanmrsharadyadav.html).    
+[GRÜHAM](https://kvshvl.github.io/GRÜHAM.html).    
+[Housing for Kalejdohill, Kvarnbacken, Jakobsberg](https://kvshvl.github.io/housingforkalejdohillkvarnbackenjakobsberg.html).    
+[Infinity Mirror](https://kvshvl.github.io/infinitymirror.html).    
+[International Velux Award Competition](https://kvshvl.github.io/internationalveluxawardcompetition.html).    
+[Irish Cream Recipe](https://kvshvl.github.io/irishcreamrecipe.html).    
+[Kapwing](https://kvshvl.github.io/kapwing.html).    
+[Perspicacity](https://kvshvl.github.io/perspicacity.html).    
+[Processism](https://kvshvl.github.io/processism.html).    
+[SHLVNG](https://kvshvl.github.io/shlvng.html).    
+[St. Lucifer](https://kvshvl.github.io/stlucifer.html).    
+[The Bureau of Doing Something About It](https://kvshvl.github.io/thebureauofdoingsomethingaboutit.html).    
+[Urban Insert Design](https://kvshvl.github.io/urbaninsertdesign.html).    
