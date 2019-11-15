@@ -17,4 +17,4 @@ In 2017, he stopped a country from deporting a friend. He became an [_Airbnb_](h
 Since 2019, he has been teaching as a visiting faculty at Dr. D.Y. Patil College of Architecture, Navi Mumbai.
 
 For more information, [_email_](mailto:%20kushaldsamant@gmail.com), connect on [_facebook_](https://facebook.com/kvshvl), or [_send a tweet_](https://twitter.com/kvshvl_).  
-To sponsor KVSHVL, you can be a part of the [_open collective_](https://opencollective.com/kvshvl), or [_paypal_](https://www.paypal.com/paypalme2/parceloff).
+To sponsor these opensource projects, you can either [_paypal_](https://www.paypal.com/paypalme2/parceloff), or be a part of the [_open collective_](https://opencollective.com/kvshvl).
