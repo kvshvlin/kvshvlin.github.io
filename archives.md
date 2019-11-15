@@ -1,4 +1,4 @@
-## Archives.     
+## Archives.
 
 [Bridging Emotions](https://kvshvl.github.io/bridgingemotions.html).    
 [Catalytic Corridor](https://kvshvl.github.io/catalyticcorridor.html).    
