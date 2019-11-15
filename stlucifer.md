@@ -2,12 +2,11 @@
 
 ![](https://66.media.tumblr.com/08f1c7efa4a68d7b65525553f3a5a392/a4c6536c061003f6-f3/s540x810/f7512d56f9e0270060b89aadbf3a2c6a0767c05b.gif)
 
-Client: [Thomas Albert Music](https://www.instagram.com/thomasalbertmusic).
+Client: [_Thomas Albert Music_](https://www.instagram.com/thomasalbertmusic).
 
-I co-wrote a song with Thomas Albert. [ [See end of this video for full credits](https://www.youtube.com/watch?v=ycdXPY99Eeg) ]
-The song was curated by Saavn. [ [St. Lucifer on Saavn](https://www.saavn.com/song/st.-lucifer-pull-me-out-feat.-thomas-albert--rani-viswas/FD1caDEBb2c) ]
-The lyrics go like: [ [See lyrics in this video](https://www.youtube.com/watch?v=1T4-8pfGwYE) ]
+I co-wrote a song with Thomas Albert. [_See making of the song_](https://www.youtube.com/watch?v=ycdXPY99Eeg). Listen to [_St. Lucifer on Saavn_](https://www.saavn.com/song/st.-lucifer-pull-me-out-feat.-thomas-albert--rani-viswas/FD1caDEBb2c). [_Watch lyrics video_](https://www.youtube.com/watch?v=1T4-8pfGwYE).
 
+**The lyrics.**
 “The moon is out,
 
 I wake up to the morning star; 
@@ -112,3 +111,5 @@ Janet D’Santos, Kushal Dhananjay Samant, Rani Viswas, Shashank Jha, Thomas Alb
 ![](https://66.media.tumblr.com/ae4bb51ac2082980e4e1b412fdc03cee/a4c6536c061003f6-e2/s540x810/68035b637405fe6f52933fe6ca90fae8a4e8f341.jpg)
 
 St. Lucifer YouTube Header.
+
+[Return back to home](https://kvshvl.github.io/index.html)
