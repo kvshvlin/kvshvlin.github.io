@@ -5,15 +5,11 @@ By Kushal Samant
 ![](https://cdn-images-1.medium.com/max/2560/1*e2Tk0vF6m-bKeEcs4OdW1w.jpeg)
 
 
-Photo by [Dan Meyers](https://unsplash.com/@dmey503?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/mental-health?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
-
 The Bureau of Doing Something About It is a book of poems, thoughts, and insights that were journal-ed from December 2015 to December 2018 by Kushal Samant.
 Pages: 220 pgs.
 
 
-If reading the full book using this preview page is uncomfortable for you, then you can download the ebook copy using this link below.
-[*Download The Bureau of Doing Something About It on www.instamojo.com*](https://www.instamojo.com/buroparcel/the-bureau-of-doing-something-about-it-pdf)
+If reading the full book using this preview page is uncomfortable for you, then [*you can download a copy here*](https://www.instamojo.com/buroparcel/the-bureau-of-doing-something-about-it-pdf).
 
 
 **-**
