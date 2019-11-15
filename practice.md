@@ -19,6 +19,5 @@ The practice spans [_app development_](https://github.com/kvshvl), [_bookstore_]
 [St. Lucifer](https://kvshvl.github.io/stlucifer.html).    
 [The Bureau of Doing Something About It](https://kvshvl.github.io/thebureauofdoingsomethingaboutit.html).    
 [Urban Insert Design](https://kvshvl.github.io/urbaninsertdesign.html).     
-[WikiHouse](https://www.wikihouse.cc).
 
 [Return back to home](https://kvshvl.github.io/index.html)
