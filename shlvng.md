@@ -156,7 +156,7 @@ Reassuring.
 
 **Demonstration.**
 
-We are now currently supplying Stage 3 Prototypes. | [Watch video](https://www.youtube.com/watch?v=6lvG_swEDwo).
+We are now currently supplying Stage 3 Prototypes. | [_Watch video_](https://www.youtube.com/watch?v=6lvG_swEDwo).
 
 **Download.**
 
@@ -283,4 +283,3 @@ We attend to damages, case wise.
 We advise you to handle our products with care.
 
 [Return back to home](https://kvshvl.github.io/index.html)
-
