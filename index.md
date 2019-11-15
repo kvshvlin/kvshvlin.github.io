@@ -1,1 +1,1 @@
-[ARCHIVES](https://kvshvl.github.io/archives.html) | [LEGAL](https://kvshvl.github.io/legal.html) | [PEOPLE](https://kvshvl.github.io/people.html) | [PORTFOLIO](https://kvshvl.github.io/portfolio.html) | [PROFILE](https://kvshvl.github.io/profile.html)
+[PRACTICE](https://kvshvl.github.io/practice.html) | [PROFILE](https://kvshvl.github.io/profile.html) | [PEOPLE](https://kvshvl.github.io/people.html) | [LEGAL](https://kvshvl.github.io/legal.html)
