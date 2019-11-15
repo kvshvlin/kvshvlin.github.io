@@ -1,4 +1,4 @@
-[HOME](https://kvshvl.github.io/index.html) | [PROJECTS](https://kvshvl.github.io/projects.html) | [PEOPLE](https://kvshvl.github.io/people.html) | [LEGAL](https://kvshvl.github.io/legal.html)
+[HOME](https://kvshvl.github.io/index.html) | [PRACTICE](https://kvshvl.github.io/practice.html) | [PEOPLE](https://kvshvl.github.io/people.html) | [LEGAL](https://kvshvl.github.io/legal.html)
 
 In 2006, [_Kushal Dhananjay Samant_](https://linkedin.com/in/kvshvl) started his journey by selling stationery on the streets. He has worked in the fields of academic research, app development, architecture, art, banking, blogging, bookmaking, bookwriting, clothing, construction, content creation, content writing, curation, design, e-commerce, engineering, film making, furniture design, garments, graphic design, hospitality, logistics, lyrics writing, market research, music, merchandising, manufacturing, opensource architecture (WikiHouse), operations, photography, podcasts, product design, sound & production, teaching, telemarketing, venture capital, and web design.
 
