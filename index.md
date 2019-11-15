@@ -1,4 +1,4 @@
-[ARCHIVES](https://kvshvl.github.io/archives.html) | [PROFILE](https://kvshvl.github.io/profile.html) | [PEOPLE](https://kvshvl.github.io/people.html) | [LEGAL](https://kvshvl.github.io/legal.html)
+[PROFILE](https://kvshvl.github.io/profile.html) | [PEOPLE](https://kvshvl.github.io/people.html) | [LEGAL](https://kvshvl.github.io/legal.html) | [ARCHIVES](https://kvshvl.github.io/archives.html)
 
 “Work. It is a small part of what we do. The rest of the time. We practice.”
 
