@@ -19,7 +19,6 @@ minima:
     rss: "https://anchor.fm/s/fe82330/podcast/rss"
     telegram: kvshvl
     twitter: kvshvl_
-    youtube: jekyll
     youtube_channel: "https://www.youtube.com/channel/UCQCznCqUhALucLSk6N8ROPA?view_as=subscriber"
 plugins: 
   - jekyll-feed
