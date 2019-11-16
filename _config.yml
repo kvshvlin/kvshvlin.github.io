@@ -1,4 +1,46 @@
 theme: jekyll-theme-minimal
 title: KVSHVL
+author: Kushal Dhananjay Samant
+email: kushaldsamant@gmail.com
 description: Programming of human behavior using architecture.
 google_analytics: UA-105795582-1
+show_excerpts: false # set to true to show excerpts on the homepage
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+  # generate social links in footer
+  social_links:
+    twitter: kvshvl_
+    github:  kvshvl
+    rss: https://anchor.fm/s/fe82330/podcast/rss
+    # facebook: kvshvl
+    # instagram: kvshvl
+    # linkedin: kvshvl
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # telegram: kvshvl
+
+    # Mastodon instances
+    # mastodon:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+ header_pages:
+ - https://kvshvl.github.io/index.md
+ - https://kvshvl.github.io/profile.md
+ - https://kvshvl.github.io/practice.md
+ - https://kvshvl.github.io/people.md
+ - https://kvshvl.github.io/legal.md
+
+# Build settings
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
