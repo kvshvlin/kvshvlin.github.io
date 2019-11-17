@@ -1,3 +1,6 @@
+---
+published: true
+---
 ## GRÜHAM.
 
 Designed by Kushal Samant (Copyrights under The Architect’s Act, 1972).

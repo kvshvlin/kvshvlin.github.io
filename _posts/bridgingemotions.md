@@ -1,3 +1,6 @@
+---
+published: true
+---
 ## Bridging Emotions.
 
 ![](https://66.media.tumblr.com/198a727dd7c52466261e375e8593815a/6f26d79d28d38089-d8/s540x810/66b875a8c32dfbcc4e783e0ebf141b9c4a409d1b.gif)

@@ -1,3 +1,6 @@
+---
+published: true
+---
 ## Processism.
 
 Processism is about understanding the way things work, the way things can work, and alternative ways to make things work. It is a useful tool for solving problems. The exercise is used as a method for building problem solving aptitude.

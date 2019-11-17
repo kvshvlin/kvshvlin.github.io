@@ -1,3 +1,6 @@
+---
+published: true
+---
 ## Housing for Kalejdohill, Kvarnbacken, Jakobsberg.
 
 This project was a competition entry to design a story for a public park for Kalejdohill. It focused on story designing as a tool for spacemaking.

@@ -1,3 +1,6 @@
+---
+published: true
+---
 ## International Velux Award Competition.
 
 ![](https://66.media.tumblr.com/aaf068815fe95690436835138b3e4e5c/df2a09fd299c5d59-f6/s540x810/36d93ffba4b0ed1b5517e84820de5cabd8bc3ba8.gif)

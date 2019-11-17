@@ -1,3 +1,6 @@
+---
+published: true
+---
 ## Infinity Mirror.
 
 **Installation at Lower Parel Social.**

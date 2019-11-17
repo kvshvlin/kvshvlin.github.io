@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 In 2006, [_Kushal Dhananjay Samant_](https://linkedin.com/in/kvshvl) started his journey by selling stationery on the streets. He has worked in the fields of academic research, app development, architecture, art, banking, blogging, bookmaking, book-writing, clothing, construction, content creation, content writing, curation, design, e-commerce, engineering, film making, furniture design, garments, graphic design, hospitality, logistics, lyrics writing, mapping, market research, music, merchandising, manufacturing, opensource architecture (WikiHouse), operations, photography, podcasts, product design, sound & production, teaching, telemarketing, venture capital, and web design.
 

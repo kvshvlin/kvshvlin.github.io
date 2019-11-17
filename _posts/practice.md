@@ -1,3 +1,6 @@
+---
+published: true
+---
 ## Practice.
 
 “Work. It is a small part of what we do. The rest of the time. We practice.”

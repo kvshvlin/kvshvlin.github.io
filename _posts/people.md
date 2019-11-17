@@ -1,3 +1,6 @@
+---
+published: true
+---
 ## People.
 
 The thoughts, and actions of these people have been an inspiration.

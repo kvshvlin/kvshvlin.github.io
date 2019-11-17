@@ -1,3 +1,6 @@
+---
+published: true
+---
 ## Catalytic Corridor.
 
 **LAjournal Design Competition.**
