@@ -1,28 +1,59 @@
---- 
-author: "Kushal Dhananjay Samant"
-description: "Programming of human behavior using architecture."
-email: kushaldsamant@gmail.com
-google_analytics: UA-105795582-1
-header_pages: 
-  - "https://kvshvl.github.io/index.md"
-  - "https://kvshvl.github.io/profile.md"
-  - "https://kvshvl.github.io/practice.md"
-  - "https://kvshvl.github.io/people.md"
-  - "https://kvshvl.github.io/legal.md"
-minima: 
-  date_format: "%b %-d, %Y"
-  social_links: 
-    facebook: kvshvl
-    github: kvshvl
-    instagram: kvshvl
-    linkedin: kvshvl
-    rss: "https://anchor.fm/s/fe82330/podcast/rss"
-    telegram: kvshvl
-    twitter: kvshvl_
-    youtube_channel: "https://www.youtube.com/channel/UCQCznCqUhALucLSk6N8ROPA?view_as=subscriber"
-plugins: 
-  - jekyll-feed
-  - jekyll-seo-tag
-show_excerpts: true
-theme: minima
+
+# SEO settings
 title: KVSHVL
+description: "Programming of human behavior using architecture"
+keywords: "architecture, people, places, film, Jekyll, theme, free, download, SEO, blog, web"
+url: http://kvshvl.in
+baseurl: "/simplest"
+# baseurl: null
+
+google_analytics: UA-105795582-1
+repo: http://github.com/kvshvl/kvshvl.github.io
+
+# Build settings
+permalink   : /:year/:title/
+markdown    : kramdown
+highlighter : pygments
+
+paginate: 4
+paginate_path: "/page/:num/"
+comments: true
+
+source: source
+destination: _site
+
+# Sass configuration
+sass:
+  sass_dir: assets/scss
+  style: compressed # expanded
+
+# Author settings
+author:
+  name     : Kushal Dhananjay Samant
+  job      : Architect
+  bio      : "Programming of human behaviour using architecture."
+  thumb    : /images/author.jpg
+  email    : kushaldsamant@gmail.com
+  url      : http://kvshvl.in
+  github   : http://github.com/kvshvl
+  twitter  : http://twitter.com/kvshvl_
+  facebook : http://facebook.com/kvshvl
+  linkedin : http://linkedin.com/in/kvshvl
+
+# social settings
+og_locale: "pt_BR"
+twitter_card: "summary_large_image"
+twitter_site: "@kvshvl_"
+
+gems:
+  - bourbon
+  - jekyll-paginate
+
+# navbar pages
+navbar:
+  - slug : about
+    title: About
+  - slug : blog
+    title: Blog
+
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
