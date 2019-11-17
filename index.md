@@ -4,5 +4,4 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-How does any of this front matter matter?
 ---
