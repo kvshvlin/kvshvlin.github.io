@@ -1,6 +1,6 @@
 **Projects**.
 
-- <a href="https://kushalsamant.github.io/yourmailproject" rel="noopener noreferrer" target="_blank">Your Mail Project</a>.  
+- <a href="https://kushalsamant.github.io/yourmailproject" rel="noopener noreferrer" target="_blank">Your&nbsp;Mail&nbsp;Project</a>.  
 - <a href="https://sandishridhar.tumblr.com" rel="noopener noreferrer" target="_blank">Web Design + Digital Marketing + Automation for Sandeep Shridhar Dhabale</a>.  
 - <a href="https://phifilms.in" rel="noopener noreferrer" target="_blank">Web Design + Digital Marketing + Automation for PhiFilms</a>.  
 - <a href="https://cinemamu.in" rel="noopener noreferrer" target="_blank">Web Design + Digital Marketing + Automation for Cinemamu</a>.  
