@@ -1,0 +1,305 @@
+**Articles**.
+
+- [$15 design guide](https://kushalsamant.github.io/articles/$15designguide.html).  
+- [A butterfly](https://kushalsamant.github.io/articles/abutterfly.html).  
+- [Abyss](https://kushalsamant.github.io/articles/abyss.html).  
+- [A chat](https://kushalsamant.github.io/articles/achat.html).  
+- [A collective](https://kushalsamant.github.io/articles/acollective.html).  
+- [A constant medium](https://kushalsamant.github.io/articles/aconstantmedium.html).  
+- [A dating pattern](https://kushalsamant.github.io/articles/adatingpattern.html).  
+- [Adios](https://kushalsamant.github.io/articles/adios.html).  
+- [Alone](https://kushalsamant.github.io/articles/alone.html).  
+- [Also on a different note](https://kushalsamant.github.io/articles/alsoonadifferentnote.html).  
+- [A mind that creates](https://kushalsamant.github.io/articles/amindthatcreates.html).  
+- [An artist's abode by Rohit Mohite](https://kushalsamant.github.io/articles/anartistsabodebyrohitmohite.html).  
+- [A perfect mess](https://kushalsamant.github.io/articles/aperfectmess.html).  
+- [Architects and presentations](https://kushalsamant.github.io/articles/architectsandpresentations.html).  
+- [Arguments](https://kushalsamant.github.io/articles/arguments.html).  
+- [A riding song](https://kushalsamant.github.io/articles/aridingsong.html).  
+- [A rule for dating and life](https://kushalsamant.github.io/articles/arulefordatingandlife.html).  
+- [A rule of thumb](https://kushalsamant.github.io/articles/aruleofthumb.html).  
+- [Ashore](https://kushalsamant.github.io/articles/ashore.html).  
+- [A study in scarlet](https://kushalsamant.github.io/articles/astudyinscarlet.html).  
+- [Automating your marketing](https://kushalsamant.github.io/articles/automatingyourmarketing.html).  
+- [Background music](https://kushalsamant.github.io/articles/backgroundmusic.html).  
+- [Balloons and bubbles](https://kushalsamant.github.io/articles/balloonsandbubbles.html).  
+- [Bathroom door](https://kushalsamant.github.io/articles/bathroomdoor.html).  
+- [Being supportive](https://kushalsamant.github.io/articles/beingsupportive.html).  
+- [Being torn](https://kushalsamant.github.io/articles/beingtorn.html).  
+- [Being you](https://kushalsamant.github.io/articles/beingyou.html).  
+- [Break](https://kushalsamant.github.io/articles/break.html).  
+- [Breeze](https://kushalsamant.github.io/articles/breeze.html).  
+- [Brida one](https://kushalsamant.github.io/articles/bridaone.html).  
+- [Brida two](https://kushalsamant.github.io/articles/bridatwo.html).  
+- [Bullets](https://kushalsamant.github.io/articles/bullets.html).  
+- [Bumble](https://kushalsamant.github.io/articles/bumble.html).  
+- [Cadbury](https://kushalsamant.github.io/articles/cadbury.html).  
+- [Caffeine](https://kushalsamant.github.io/articles/caffiene.html).  
+- [Canciones de un incendio](https://kushalsamant.github.io/articles/cancionesdeunincendio.html).  
+- [Can you?](https://kushalsamant.github.io/articles/canyou.html)  
+- [Chance](https://kushalsamant.github.io/articles/chance.html).  
+- [Choices](https://kushalsamant.github.io/articles/choices.html).  
+- [Circles](https://kushalsamant.github.io/articles/circles.html).  
+- [Clocks](https://kushalsamant.github.io/articles/clocks.html).  
+- [Closer](https://kushalsamant.github.io/articles/closer.html).  
+- [C'mon](https://kushalsamant.github.io/articles/cmon.html).  
+- [Coffee](https://kushalsamant.github.io/articles/coffee.html).  
+- [Collective](https://kushalsamant.github.io/articles/collective.html).  
+- [Competition ten thousand](https://kushalsamant.github.io/articles/competitiontenthousand.html).  
+- [Condescending](https://kushalsamant.github.io/articles/condescending.html).  
+- [Consistency](https://kushalsamant.github.io/articles/consistency.html).  
+- [Content creation for architects](https://kushalsamant.github.io/articles/contentcreationforarchitects.html).  
+- [Continuity](https://kushalsamant.github.io/articles/continuity.html).  
+- [Control](https://kushalsamant.github.io/articles/control.html).  
+- [Countryside](https://kushalsamant.github.io/articles/countryside.html).  
+- [Courage](https://kushalsamant.github.io/articles/courage.html).  
+- [Covid nineteen pandemic](https://kushalsamant.github.io/articles/covidnineteenpandemic.html).  
+- [Crashing](https://kushalsamant.github.io/articles/crashing.html).  
+- [Crowd management in exigencies](https://kushalsamant.github.io/articles/crowdmanagementinexigencies.html).  
+- [Crowds](https://kushalsamant.github.io/articles/crowds.html).  
+- [Curb](https://kushalsamant.github.io/articles/curb.html).  
+- [Curing a hickey](https://kushalsamant.github.io/articles/curingahickey.html).  
+- [Damage](https://kushalsamant.github.io/articles/damage.html).  
+- [Death](https://kushalsamant.github.io/articles/death.html).  
+- [Delusions](https://kushalsamant.github.io/articles/delusions.html).  
+- [Diet](https://kushalsamant.github.io/articles/diet.html).  
+- [Dissociation](https://kushalsamant.github.io/articles/dissociation.html).  
+- [Distances](https://kushalsamant.github.io/articles/distances.html).  
+- [Do you see?](https://kushalsamant.github.io/articles/doyousee.html)  
+- [Dread](https://kushalsamant.github.io/articles/dread.html).  
+- [Eclectic](https://kushalsamant.github.io/articles/eclectic.html).  
+- [Erotica eight](https://kushalsamant.github.io/articles/eroticaeight.html).  
+- [Erotica eleven](https://kushalsamant.github.io/articles/eroticaeleven.html).  
+- [Erotica fifteen](https://kushalsamant.github.io/articles/eroticafifteen.html).  
+- [Erotica five](https://kushalsamant.github.io/articles/eroticafive.html).  
+- [Erotica four](https://kushalsamant.github.io/articles/eroticafour.html).  
+- [Erotica fourteen](https://kushalsamant.github.io/articles/eroticafourteen.html).  
+- [Erotica nine](https://kushalsamant.github.io/articles/eroticanine.html).  
+- [Erotica one](https://kushalsamant.github.io/articles/eroticaone.html).  
+- [Erotica seven](https://kushalsamant.github.io/articles/eroticaseven.html).  
+- [Erotica six](https://kushalsamant.github.io/articles/eroticasix.html).  
+- [Erotica ten](https://kushalsamant.github.io/articles/eroticaten.html).  
+- [Erotica thirteen](https://kushalsamant.github.io/articles/eroticathirteen.html).  
+- [Erotica three](https://kushalsamant.github.io/articles/eroticathree.html).  
+- [Erotica twelve](https://kushalsamant.github.io/articles/eroticatwelve.html).  
+- [Erotica two](https://kushalsamant.github.io/articles/eroticatwo.html).  
+- [Essentialism](https://kushalsamant.github.io/articles/essentialism.html).  
+- [Etched](https://kushalsamant.github.io/articles/etched.html).  
+- [Eternity](https://kushalsamant.github.io/articles/eternity.html).  
+- [Excuses](https://kushalsamant.github.io/articles/excuses.html).  
+- [Facebook](https://kushalsamant.github.io/articles/facebook.html).  
+- [Family heirloom](https://kushalsamant.github.io/articles/familyheirloom.html).  
+- [Fill](https://kushalsamant.github.io/articles/fill.html).  
+- [Firefly](https://kushalsamant.github.io/articles/firefly.html).  
+- [Foreclosure](https://kushalsamant.github.io/articles/foreclosure.html).  
+- [Free](https://kushalsamant.github.io/articles/free.html).  
+- [Fuck](https://kushalsamant.github.io/articles/fuck.html).  
+- [Geography](https://kushalsamant.github.io/articles/geography.html).  
+- [Giving](https://kushalsamant.github.io/articles/giving.html).  
+- [Google voice](https://kushalsamant.github.io/articles/googlevoice.html).  
+- [Great minds](https://kushalsamant.github.io/articles/greatminds.html).  
+- [Greeks](https://kushalsamant.github.io/articles/greeks.html).  
+- [Habits](https://kushalsamant.github.io/articles/habits.html).  
+- [Hanxwriter](https://kushalsamant.github.io/articles/hanxwriter.html).  
+- [Happy x sad](https://kushalsamant.github.io/articles/happyxsad.html).  
+- [Hard to imagine](https://kushalsamant.github.io/articles/hardtoimagine.html).  
+- [Harness](https://kushalsamant.github.io/articles/harness.html).  
+- [Has Bangalore thought about this?](https://kushalsamant.github.io/articles/hasbangalorethoughtaboutthis.html)  
+- [Heart](https://kushalsamant.github.io/articles/heart.html).  
+- [Hemingwayapp](https://kushalsamant.github.io/articles/hemingwayapp.html).  
+- [Hope](https://kushalsamant.github.io/articles/hope.html).  
+- [How to apply for a Covid nineteen travel pass?](https://kushalsamant.github.io/articles/howtoapplyforacovidnineteentravelpass.html)  
+- [How to develop a better you?](https://kushalsamant.github.io/articles/howtodevelopabetteryou.html)  
+- [How to keep your creative writing spree alive?](https://kushalsamant.github.io/articles/howtokeepyourcreativewritingspreealive.html)  
+- [How to not reinvent the wheel?](https://kushalsamant.github.io/articles/howtonotreinventthewheel.html)  
+- [How to resolve a conflict?](https://kushalsamant.github.io/articles/howtoresolveaconflict.html)  
+- [How to trade futures?](https://kushalsamant.github.io/articles/howtotradefutures.html)  
+- [Ideas](https://kushalsamant.github.io/articles/ideas.html).  
+- [If](https://kushalsamant.github.io/articles/if.html).  
+- [I met someone](https://kushalsamant.github.io/articles/imetsomeone.html).  
+- [India](https://kushalsamant.github.io/articles/india.html).  
+- [Influence](https://kushalsamant.github.io/articles/influence.html).  
+- [Inner peace](https://kushalsamant.github.io/articles/innerpeace.html).  
+- [Inside](https://kushalsamant.github.io/articles/inside.html).  
+- [Instagram](https://kushalsamant.github.io/articles/instagram.html).  
+- [Instagram strategy](https://kushalsamant.github.io/articles/instagramstrategy.html).  
+- [Intelligently](https://kushalsamant.github.io/articles/intelligently.html).  
+- [Investment plan](https://kushalsamant.github.io/articles/investmentplan.html).  
+- [Involvement](https://kushalsamant.github.io/articles/involvement.html).  
+- [Irish cream recipe](https://kushalsamant.github.io/articles/irishcreamrecipe.html).  
+- [I won't let you walk away with a broken heart](https://kushalsamant.github.io/articles/iwontletyouwalkawaywithabrokenheart.html).  
+- [Jaun](https://kushalsamant.github.io/articles/jaun.html).  
+- [Jhuki nazar](https://kushalsamant.github.io/articles/jhukinazar.html).  
+- [Joan's hope](https://kushalsamant.github.io/articles/joanshope.html).  
+- [Journey](https://kushalsamant.github.io/articles/journey.html).  
+- [Kapwing](https://kushalsamant.github.io/articles/kapwing.html).  
+- [Kar](https://kushalsamant.github.io/articles/kar.html).  
+- [Kashmiri kahwa](https://kushalsamant.github.io/articles/kashmirikahwa.html).  
+- [Khamoshi](https://kushalsamant.github.io/articles/khamoshi.html).  
+- [Kvarnbacken](https://kushalsamant.github.io/articles/kvarnbacken.html).  
+- [Lancymark](https://kushalsamant.github.io/articles/lancymark.html).  
+- [Lessons in running a scam twenty twenty](https://kushalsamant.github.io/articles/lessonsinrunningascamtwentytwenty.html).  
+- [Let me](https://kushalsamant.github.io/articles/letme.html).  
+- [Letters to The Commissioner of Police, Mumbai](https://kushalsamant.github.io/articles/letterstothecommissionerofpolicemumbai.html).  
+- [Life](https://kushalsamant.github.io/articles/life.html).  
+- [Listening](https://kushalsamant.github.io/articles/listening.html).  
+- [Listening to myself](https://kushalsamant.github.io/articles/listeningtomyself.html).  
+- [Local economy](https://kushalsamant.github.io/articles/localeconomy.html).  
+- [Lone tree](https://kushalsamant.github.io/articles/lonetree.html).  
+- [Lost one](https://kushalsamant.github.io/articles/lostone.html).  
+- [Lost two](https://kushalsamant.github.io/articles/losttwo.html).  
+- [Love one](https://kushalsamant.github.io/articles/loveone.html).  
+- [Love two](https://kushalsamant.github.io/articles/lovetwo.html).  
+- [Magic](https://kushalsamant.github.io/articles/magic.html).  
+- [Makerspace poem](https://kushalsamant.github.io/articles/makerspacepoem.html).  
+- [Make the most of this lockdown financially](https://kushalsamant.github.io/articles/makethemostofthislockdownfinancially.html).  
+- [Meetings](https://kushalsamant.github.io/articles/meetings.html).  
+- [Memoir to the old man](https://kushalsamant.github.io/articles/memoirtotheoldman.html).  
+- [Messy affair](https://kushalsamant.github.io/articles/messyaffair.html).  
+- [Migraine](https://kushalsamant.github.io/articles/migraine.html).  
+- [Mind](https://kushalsamant.github.io/articles/mind.html).  
+- [Modi and the English](https://kushalsamant.github.io/articles/modiandtheenglish.html).  
+- [Mohave](https://kushalsamant.github.io/articles/mohave.html).  
+- [Money](https://kushalsamant.github.io/articles/money.html).  
+- [Monogamy](https://kushalsamant.github.io/articles/monogamy.html).  
+- [Morning](https://kushalsamant.github.io/articles/morning.html).  
+- [Motherland](https://kushalsamant.github.io/articles/motherland.html).  
+- [Multiple sources](https://kushalsamant.github.io/articles/multiplesources.html).  
+- [Mumbai suburban railway](https://kushalsamant.github.io/articles/mumbaisuburbanrailway.html).  
+- [Muse](https://kushalsamant.github.io/articles/muse.html).  
+- [Nadi](https://kushalsamant.github.io/articles/nadi.html).  
+- [Next stop passport office](https://kushalsamant.github.io/articles/nextstoppassportoffice.html).  
+- [None of this makes sense](https://kushalsamant.github.io/articles/noneofthismakessense.html).  
+- [Norfolk](https://kushalsamant.github.io/articles/norfolk.html).  
+- [Nostalgia](https://kushalsamant.github.io/articles/nostalgia.html).  
+- [Not everyone of us](https://kushalsamant.github.io/articles/noteveryoneofus.html).  
+- [Nothing has to happen](https://kushalsamant.github.io/articles/nothinghastohappen.html).  
+- [Occupying bathrooms](https://kushalsamant.github.io/articles/occupyingbathrooms.html).  
+- [Ode to strangers](https://kushalsamant.github.io/articles/odetostrangers.html).  
+- [Of pegboards and walkways](https://kushalsamant.github.io/articles/ofpegboardsandwalkways.html).  
+- [Once more my love](https://kushalsamant.github.io/articles/oncemoremylove.html).  
+- [Only the paranoid survive](https://kushalsamant.github.io/articles/onlytheparanoidsurvive.html).  
+- [Open the skies](https://kushalsamant.github.io/articles/opentheskies.html).  
+- [Paid](https://kushalsamant.github.io/articles/paid.html).  
+- [Pass](https://kushalsamant.github.io/articles/pass.html).  
+- [Passion](https://kushalsamant.github.io/articles/passion.html).  
+- [Peer pressure](https://kushalsamant.github.io/articles/peerpressure.html).  
+- [People](https://kushalsamant.github.io/articles/people.html).  
+- [Phew](https://kushalsamant.github.io/articles/phew.html).  
+- [Photograph](https://kushalsamant.github.io/articles/photograph.html).  
+- [Play](https://kushalsamant.github.io/articles/play.html).  
+- [Po](https://kushalsamant.github.io/articles/po.html).  
+- [Podcast](https://kushalsamant.github.io/articles/podcast.html).  
+- [Point](https://kushalsamant.github.io/articles/point.html).  
+- [Portraits](https://kushalsamant.github.io/articles/portraits.html).  
+- [Problemas](https://kushalsamant.github.io/articles/problemas.html).  
+- [Puzzle](https://kushalsamant.github.io/articles/puzzle.html).  
+- [Questions](https://kushalsamant.github.io/articles/questions.html).  
+- [Quotes](https://kushalsamant.github.io/articles/quotes.html).  
+- [Railway line intervention](https://kushalsamant.github.io/articles/railwaylineintervention.html).  
+- [Reading](https://kushalsamant.github.io/articles/reading.html).  
+- [Rebounding](https://kushalsamant.github.io/articles/rebounding.html).  
+- [Regret](https://kushalsamant.github.io/articles/regret.html).  
+- [Reh gaya](https://kushalsamant.github.io/articles/rehgaya.html).  
+- [Relative income](https://kushalsamant.github.io/articles/relativeincome.html).  
+- [Roads](https://kushalsamant.github.io/articles/roads.html).  
+- [Running](https://kushalsamant.github.io/articles/running.html).  
+- [Schedule for quick dating](https://kushalsamant.github.io/articles/scheduleforquickdating.html).  
+- [Scootsy](https://kushalsamant.github.io/articles/scootsy.html).  
+- [Scripting](https://kushalsamant.github.io/articles/scripting.html).  
+- [Seeking clarity](https://kushalsamant.github.io/articles/seekingclarity.html).  
+- [Semantics of a word](https://kushalsamant.github.io/articles/semanticsofaword.html).  
+- [Seven](https://kushalsamant.github.io/articles/seven.html).  
+- [Sharing my thoughts](https://kushalsamant.github.io/articles/sharingmythoughts.html).  
+- [She one](https://kushalsamant.github.io/articles/sheone.html).  
+- [She two](https://kushalsamant.github.io/articles/shetwo.html).  
+- [Shift](https://kushalsamant.github.io/articles/shift.html).  
+- [Shower](https://kushalsamant.github.io/articles/shower.html).  
+- [Sink](https://kushalsamant.github.io/articles/sink.html).  
+- [Sixteen years](https://kushalsamant.github.io/articles/sixteenyears.html).  
+- [Slept](https://kushalsamant.github.io/articles/slept.html).  
+- [Slow](https://kushalsamant.github.io/articles/slow.html).  
+- [Slowly intro](https://kushalsamant.github.io/articles/slowlyintro.html).  
+- [Slowly letters eight](https://kushalsamant.github.io/articles/slowlyletterseight.html).  
+- [Slowly letters five](https://kushalsamant.github.io/articles/slowlylettersfive.html).  
+- [Slowly letters four](https://kushalsamant.github.io/articles/slowlylettersfour.html).  
+- [Slowly letters one](https://kushalsamant.github.io/articles/slowlylettersone.html).  
+- [Slowly letters seven](https://kushalsamant.github.io/articles/slowlylettersseven.html).  
+- [Slowly letters six](https://kushalsamant.github.io/articles/slowlyletterssix.html).  
+- [Slowly letters three](https://kushalsamant.github.io/articles/slowlylettersthree.html).  
+- [Slowly letters two](https://kushalsamant.github.io/articles/slowlyletterstwo.html).  
+- [Smaller](https://kushalsamant.github.io/articles/smaller.html).  
+- [Small things matter](https://kushalsamant.github.io/articles/smallthingsmatter.html).  
+- [Smoking](https://kushalsamant.github.io/articles/smoking.html).  
+- [Smoking easy](https://kushalsamant.github.io/articles/smokingeasy.html).  
+- [Social](https://kushalsamant.github.io/articles/social.html).  
+- [Social media differences](https://kushalsamant.github.io/articles/socialmediadifferences.html).  
+- [Soundboarding](https://kushalsamant.github.io/articles/soundboarding.html).  
+- [Space aching](https://kushalsamant.github.io/articles/spaceaching.html).  
+- [Space is an emotion](https://kushalsamant.github.io/articles/spaceisanemotion.html).  
+- [Spooning](https://kushalsamant.github.io/articles/spooning.html).  
+- [Startup culture](https://kushalsamant.github.io/articles/startupculture.html).  
+- [St. Lucifer](https://kushalsamant.github.io/articles/stlucifer.html).  
+- [Taking chances](https://kushalsamant.github.io/articles/takingchances.html).  
+- [Tata](https://kushalsamant.github.io/articles/tata.html).  
+- [Tattered](https://kushalsamant.github.io/articles/tattered.html).  
+- [TBC traveller's journal](https://kushalsamant.github.io/articles/tbctravellersjournal.html).  
+- [Ten kilometer walks](https://kushalsamant.github.io/articles/tenkilometerwalks.html).  
+- [The architecture of a thought](https://kushalsamant.github.io/articles/thearchitectureofathought.html).  
+- [The best part](https://kushalsamant.github.io/articles/thebestpart.html).  
+- [The best way](https://kushalsamant.github.io/articles/thebestway.html).  
+- [The changing point](https://kushalsamant.github.io/articles/thechangingpoint.html).  
+- [The daily average](https://kushalsamant.github.io/articles/thedailyaverage.html).  
+- [The Dark Knight fantasy](https://kushalsamant.github.io/articles/thedarkknightfantasy.html).  
+- [The highest task](https://kushalsamant.github.io/articles/thehighesttask.html).  
+- [The idea of sharing](https://kushalsamant.github.io/articles/theideaofsharing.html).  
+- [The joy of not wearing a seat belt](https://kushalsamant.github.io/articles/thejoyofnotwearingaseatbelt.html).  
+- [The key to money](https://kushalsamant.github.io/articles/thekeytomoney.html).  
+- [The last supper](https://kushalsamant.github.io/articles/thelastsupper.html).  
+- [The locus of all focus](https://kushalsamant.github.io/articles/thelocusofallfocus.html).  
+- [The professor](https://kushalsamant.github.io/articles/theprofessor.html).  
+- [The railroad to Tinkamentown](https://kushalsamant.github.io/articles/therailroadtotinkamentown.html).  
+- [There](https://kushalsamant.github.io/articles/there.html).  
+- [The right to share](https://kushalsamant.github.io/articles/therighttoshare.html).  
+- [The secret to everything](https://kushalsamant.github.io/articles/thesecrettoeverything.html).  
+- [The vessel](https://kushalsamant.github.io/articles/thevessel.html).  
+- [The who, not the whats](https://kushalsamant.github.io/articles/thewhonotthewhats.html).  
+- [The writer's manifesto](https://kushalsamant.github.io/articles/thewritersmanifesto.html).  
+- [Things](https://kushalsamant.github.io/articles/things.html).  
+- [Think of a white shirt](https://kushalsamant.github.io/articles/thinkofawhiteshirt.html).  
+- [Third approach](https://kushalsamant.github.io/articles/thirdapproach.html).  
+- [Thirty](https://kushalsamant.github.io/articles/thirty.html).  
+- [This is us](https://kushalsamant.github.io/articles/thisisus.html).  
+- [Three ten to Yuma](https://kushalsamant.github.io/articles/threetentoyuma.html).  
+- [Time](https://kushalsamant.github.io/articles/time.html).  
+- [Timepass](https://kushalsamant.github.io/articles/timepass.html).  
+- [Tipping point](https://kushalsamant.github.io/articles/tippingpoint.html).  
+- [To be me](https://kushalsamant.github.io/articles/tobeme.html).  
+- [Tonight](https://kushalsamant.github.io/articles/tonight.html).  
+- [Toxicity](https://kushalsamant.github.io/articles/toxicity.html).  
+- [Trainspotting](https://kushalsamant.github.io/articles/trainspotting.html).  
+- [Tu chal](https://kushalsamant.github.io/articles/tuchal.html).  
+- [Twitter x pen](https://kushalsamant.github.io/articles/twitterxpen.html).  
+- [Two thousand dates](https://kushalsamant.github.io/articles/twothousanddates.html).  
+- [Type-faced](https://kushalsamant.github.io/articles/typefaced.html).  
+- [Urban trekking](https://kushalsamant.github.io/articles/urbantrekking.html).  
+- [Variables](https://kushalsamant.github.io/articles/variables.html).  
+- [Waiting](https://kushalsamant.github.io/articles/waiting.html).  
+- [Wannabe](https://kushalsamant.github.io/articles/wannabe.html).  
+- [Want to look away](https://kushalsamant.github.io/articles/wanttolookaway.html).  
+- [Water](https://kushalsamant.github.io/articles/water.html).  
+- [Whatever this means](https://kushalsamant.github.io/articles/whateverthismeans.html).  
+- [What is thinking versus writing?](https://kushalsamant.github.io/articles/whatisthinkingversuswriting.html)  
+- [What some women want on dating apps?](https://kushalsamant.github.io/articles/whatwomenwantondatingapps.html)  
+- [What's up with WikiHouse?](https://kushalsamant.github.io/articles/whatsupwithwikihouse.html)  
+- [When I lost my father](https://kushalsamant.github.io/articles/whenilostmyfather.html).  
+- [Whistle](https://kushalsamant.github.io/articles/whistle.html).  
+- [Who owns a creative?](https://kushalsamant.github.io/articles/whoownsacreative.html)  
+- [Window](https://kushalsamant.github.io/articles/window.html).  
+- [Wish](https://kushalsamant.github.io/articles/wish.html).  
+- [Woman](https://kushalsamant.github.io/articles/woman.html).  
+- [Writers](https://kushalsamant.github.io/articles/writers.html).  
+- [Yawn](https://kushalsamant.github.io/articles/yawn.html).  
+- [Yesterday](https://kushalsamant.github.io/articles/yesterday.html).  
+- [Ye toh tu jaane na](https://kushalsamant.github.io/articles/yetohtujaanena.html).  
+- [Zomato in bad weather](https://kushalsamant.github.io/articles/zomatoinbadweather.html).

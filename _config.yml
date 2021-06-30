@@ -1,0 +1,20 @@
+author: "Kushal Samant"
+description: "Official Site / KUZYA!"
+email: kushaldsamant@gmail.com
+google_analytics: UA-105795582-1
+keywords: "Architecture, CSS, HTML, Javascript, People, Places, Visual Art, Web"
+logo: /assets/img/logokuzya.png
+minimal: 
+  date_format: "%b %-d, %Y"
+  social_links: 
+    github: kushalsamant
+    instagram: kushalsamant_
+    twitter: kushalsamant_
+    linkedin: kushalsamant
+    youtube_channel: https://www.youtube.com/channel/UCQCznCqUhALucLSk6N8ROPA
+plugins: 
+  - jekyll-feed
+  - jekyll-seo-tag
+show_downloads: true
+theme: jekyll-theme-minimal
+title: KUZYA!
