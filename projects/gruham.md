@@ -2,9 +2,6 @@ Can we make housing free for all?
 
 **GRÜHAM**.
 
-![_GRÜHAM Front View_](https://66.media.tumblr.com/e5481b89c70eea291699fd1aa0b2cb07/38963e009a684668-9a/s540x810/35535c7ce385073f3b744383266a6e5de2567424.jpg)  
-GRÜHAM Front View.
-
 A 'free for all' approach to housing with <a href="https://www.wikihouse.cc" rel="noopener noreferrer" target="_blank">The&nbsp;WikiHouse&nbsp;Project</a> + <a href="https://www.airbnb.com" rel="noopener noreferrer" target="_blank">Airbnb</a>, exhibited with 32 sqft spaces, designed to suit your "changing" housing needs. (Copyrights under The Architect's Act, 1972)
 
 **Here's how this works**.
@@ -35,6 +32,11 @@ It will help them stay positive, and stress-free. We believe that the process di
 
 In search of the answer, GRÜHAM began with ideas similar to selling products/services, and then employing these profits for building social housing projects. The idea of creating a profitable business model to enable large scale social impact led us to a route map for how this could be achieved. It begins here.
 
+![_GRÜHAM Front View_](https://66.media.tumblr.com/e5481b89c70eea291699fd1aa0b2cb07/38963e009a684668-9a/s540x810/35535c7ce385073f3b744383266a6e5de2567424.jpg)  
+GRÜHAM Front View.
+
+**Here's our business model**.
+
 **People travel**.
 
 With the advent of Airbnb it is now easier to host someone as guests at your home. Airbnb safeguards all the parties involved under Airbnb’s terms and conditions.
@@ -54,20 +56,32 @@ With the advent of Airbnb it is now easier to host someone as guests at your hom
 
 **Airbnb on trials**.
 
-In 2015, Kushal Samant & Sachin Maheshwari formed the <a href="https://www.sketchfab.com/wikihousebom" rel="noopener noreferrer" target="_blank">WikiHouse / BOM</a> chapter of <a href="https://www.wikihouse.cc/Contributors" rel="noopener noreferrer" target="_blank">The WikiHouse Project</a> in Bombay. In 2016, <a href="http://www.mao.si" rel="noopener noreferrer" target="_blank">Muzej Za Arhitekturo In Oblikovanje</a> published this work for <a href="https://futurearchitectureplatform.org/projects/8e8af477-4aea-431b-a69f-74cd05862eac" rel="noopener noreferrer" target="_blank">Future Architecture Platform</a>. They won an Entrepreneurship Cell Award 2016 in Mumbai.
+In 2015, Kushal&nbsp;Samant & Sachin&nbsp;Maheshwari formed the WikiHouse / BOM chapter of <a href="https://www.wikihouse.cc/Contributors" rel="noopener noreferrer" target="_blank">The&nbsp;WikiHouse&nbsp;Project</a> in Bombay. In 2016, <a href="http://www.mao.si" rel="noopener noreferrer" target="_blank">Muzej&nbsp;Za&nbsp;Arhitekturo&nbsp;In&nbsp;Oblikovanje</a> published this work for <a href="https://futurearchitectureplatform.org/projects/8e8af477-4aea-431b-a69f-74cd05862eac" rel="noopener noreferrer" target="_blank">Future&nbsp;Architecture&nbsp;Platform</a>.
 
-They used the prize money to host on Airbnb in Mumbai to test the hospitality platform as a means of revenue. In February 2017, Sachin Maheshwari parted ways to start his own ventures. The duo was awarded Airbnb's "Superhost” status in October 2017.
+They won an Entrepreneurship&nbsp;Cell&nbsp;Award 2016 in Mumbai. They used the prize money to host on Airbnb in Mumbai to test the hospitality platform as a means of revenue.
 
-Kushal Samant now commercially builds WikiHouse through GRÜHAM.
-
-Watch Entrepreneurship Cell Award Video Submission.  
+Watch Entrepreneurship&nbsp;Cell&nbsp;Award video submission.  
 {% include youtube_embed.html id="joiJpumAlmg" %}
 
-**Product information**.
+In February 2017, Sachin&nbsp;Maheshwari parted ways to start his own ventures. The duo was awarded Airbnb's "Superhost” status in October 2017.
 
-You can fill <a href="https://opensystemslab.typeform.com/to/OHv4SE" rel="noopener noreferrer" target="_blank">this</a> form to join WikiHouse-Contributors Slack group. You can find project models on <a href="https://www.sketchfab.com/wikihousebom" rel="noopener noreferrer" target="_blank">Sketchfab</a>. You can view a map of WikiHouse Developer Communities <a href="https://kushalsamant.github.io/gruham/projects/wikihouse_map.html">here</a>.
+Kushal&nbsp;Samant now commercially builds WikiHouse through GRÜHAM. You can fill <a href="https://opensystemslab.typeform.com/to/OHv4SE" rel="noopener noreferrer" target="_blank">this</a> form to join WikiHouse-Contributors Slack group.
 
-All copyrights are reserved by the original author. The following dimensions share areas of various floor layouts.
+You can find project models on <a href="https://www.sketchfab.com/wikihousebom" rel="noopener noreferrer" target="_blank">Sketchfab</a>. You can view a map of WikiHouse&nbsp;Developer&nbsp;Communities <a href="https://kushalsamant.github.io/projects/wikihouse_map.html">here</a>.
+
+You can view our catalog for product information.
+
+**Here's our catalog**.
+
+All copyrights are reserved by the original author. If you are a maker, then you can download complete cutting files for CNC manufacturing for commercial use under the <a href="https://creativecommons.org/licenses/by-nd/4.0/legalcode" rel="noopener noreferrer" target="_blank">CC-BY-ND&nbsp;4.0&nbsp;License</a>.
+
+You are instructed to use these designs and files only under professional help and supervision. We are not liable, in any way whatsoever, for any damages that may occur from the use of these designs and files.
+
+You are responsible for all forms of profit and loss that may occur from the use of these designs and files, including but not limited to injury, loss of life, monetary loss, any other form of loss or profit, whatsoever.
+
+<div class="sketchfab-embed-wrapper"> <iframe title="Shelving - Complete Cutting Files & Guide" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/135b548e7c5e4b28a0aae1777c99840e/embed?autospin=1&autostart=1&ui_hint=2&ui_theme=dark"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/shelving-complete-cutting-files-guide-135b548e7c5e4b28a0aae1777c99840e?utm_medium=embed&utm_campaign=share-popup&utm_content=135b548e7c5e4b28a0aae1777c99840e" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Shelving - Complete Cutting Files & Guide </a></p></div>
+
+The following dimensions share areas of various floor layouts.
 
 1. Bay.  
 Dimensions:  
@@ -100,20 +114,3 @@ Width: 12 feet
 Depth: 16 feet  
 Clear Height: 16 feet  
 Carpet Area: 384 SFT
-
-![_GRÜHAM Front View_](https://66.media.tumblr.com/e5481b89c70eea291699fd1aa0b2cb07/38963e009a684668-9a/s540x810/35535c7ce385073f3b744383266a6e5de2567424.jpg)  
-GRÜHAM Front View.
-
-**Download**.
-
-If you are a maker, then you can '<a href="https://www.sketchfab.com/wikihousebom" rel="noopener noreferrer" target="_blank">Download</a>' Complete Cutting Files For CNC Manufacturing for commercial use under the <a href="https://creativecommons.org/licenses/by-nd/4.0/legalcode" rel="noopener noreferrer" target="_blank">CC-BY-ND 4.0 License</a>.
-
-**Note**: Use this design under professional supervision. We are not liable for any damages whatsoever. You are responsible for the cause and effects that may occur from the use of this design including loss or profit, whatsoever.
-
-<div class="roadmap-spacer-1"></div>
-
-<p>
-<a class="btn" href="https://www.sketchfab.com/wikihousebom" rel="noopener noreferrer" target="_blank">Download</a><br>
-</p>
-
-<div class="roadmap-spacer-2"></div>
