@@ -120,11 +120,13 @@ We are now currently supplying Stage 3 Prototypes.
 
 **Download**.
 
-If you are a maker, then you can '<a href="https://sketchfab.com/3d-models/shelving-complete-cutting-files-guide-135b548e7c5e4b28a0aae1777c99840e" rel="noopener noreferrer" target="_blank">Download</a>' Complete Cutting Files For CNC Manufacturing for commercial use under the <a href="https://creativecommons.org/licenses/by-nd/4.0/legalcode" rel="noopener noreferrer" target="_blank">CC-BY-ND 4.0 License</a>.
+All copyrights are reserved by the original author. If you are a maker, then you can download complete cutting files for CNC manufacturing for commercial use under the <a href="https://creativecommons.org/licenses/by-nd/4.0/legalcode" rel="noopener noreferrer" target="_blank">CC-BY-ND&nbsp;4.0&nbsp;License</a>.
+
+You are instructed to use these designs and files only under professional help and supervision. We are not liable, in any way whatsoever, for any damages that may occur from the use of these designs and files.
+
+You are responsible for all forms of profit and loss that may occur from the use of these designs and files, including but not limited to injury, loss of life, monetary loss, any other form of loss or profit, whatsoever.
 
 <div class="sketchfab-embed-wrapper"> <iframe title="Shelving - Complete Cutting Files & Guide" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/135b548e7c5e4b28a0aae1777c99840e/embed?autospin=1&autostart=1&preload=1&ui_theme=dark"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/shelving-complete-cutting-files-guide-135b548e7c5e4b28a0aae1777c99840e?utm_medium=embed&utm_campaign=share-popup&utm_content=135b548e7c5e4b28a0aae1777c99840e" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Shelving - Complete Cutting Files & Guide </a> by <a href="https://sketchfab.com/wikihousebom?utm_medium=embed&utm_campaign=share-popup&utm_content=135b548e7c5e4b28a0aae1777c99840e" target="_blank" style="font-weight: bold; color: #1CAAD9;"> WikiHouse / BOM </a></p></div>
-
-**Note**: Use this design under professional supervision. We are not liable for any damages whatsoever. You are responsible for the cause and effects that may occur from the use of this design including loss or profit, whatsoever.
 
 <div class="roadmap-spacer-1"></div>
 
