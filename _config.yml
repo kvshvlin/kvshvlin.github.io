@@ -1,9 +1,9 @@
 author: "Kushal Samant"
-description: "Official Site / KUZYA!"
+description: "Official Site / Kushal Samant"
 email: kushaldsamant@gmail.com
 google_analytics: UA-105795582-1
 keywords: "Architecture, CSS, HTML, Javascript, People, Places, Visual Art, Web"
-logo: /assets/img/logokuzya.png
+logo: /assets/img/logokushalsamant.png
 minimal: 
   date_format: "%b %-d, %Y"
   social_links: 
@@ -17,4 +17,4 @@ plugins:
   - jekyll-seo-tag
 show_downloads: true
 theme: jekyll-theme-minimal
-title: KUZYA!
+title: Kushal Samant
