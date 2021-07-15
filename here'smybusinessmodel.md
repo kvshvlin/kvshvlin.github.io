@@ -15,3 +15,17 @@ Here's how you can help: If you are already following my content and want to chi
 </p>
 
 <div class="roadmap-spacer-2"></div>
+<div class="roadmap-spacer-1"></div>
+
+<p>
+<a class="btn" href="https://kushalsamant.github.io/projects/gruham.html" rel="noopener noreferrer" target="_blank">GRÜHAM</a><br>
+</p>
+
+<div class="roadmap-spacer-2"></div>
+<div class="roadmap-spacer-1"></div>
+
+<p>
+<a class="btn" href="https://kushalsamant.github.io/projects/shlvng.html" rel="noopener noreferrer" target="_blank">SHLVNG</a><br>
+</p>
+
+<div class="roadmap-spacer-2"></div>
