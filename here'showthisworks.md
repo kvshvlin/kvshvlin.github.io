@@ -7,7 +7,7 @@ I collate these scans every month to create issues for Your&nbsp;Mail&nbsp;Proje
 <div class="roadmap-spacer-1"></div>
 
 <p>
-<a class="btn" href="https://www.gum.co/yourmailproject" rel="noopener noreferrer" target="_blank">Download.</a>|<a class="btn" href="https://www.society6.com/yourmailproject" rel="noopener noreferrer" target="_blank">Merch!</a><br>
+<a class="btn" href="https://www.gum.co/yourmailproject" rel="noopener noreferrer" target="_blank">Download</a>|<a class="btn" href="https://www.society6.com/yourmailproject" rel="noopener noreferrer" target="_blank">Merch!</a><br>
 </p>
 
 <div class="roadmap-spacer-2"></div>
