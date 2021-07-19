@@ -46,6 +46,7 @@
 - [Coffee](https://kushalsamant.github.io/articles/coffee.html).  
 - [Collective](https://kushalsamant.github.io/articles/collective.html).  
 - [Competition ten thousand](https://kushalsamant.github.io/articles/competitiontenthousand.html).  
+- [Components of a trading plan](https://kushalsamant.github.io/articles/componentsofatradingplan.html).  
 - [Condescending](https://kushalsamant.github.io/articles/condescending.html).  
 - [Consistency](https://kushalsamant.github.io/articles/consistency.html).  
 - [Content creation for architects](https://kushalsamant.github.io/articles/contentcreationforarchitects.html).  
